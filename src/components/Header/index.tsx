@@ -107,7 +107,7 @@ const HeaderCart = styled.div`
     visibility: hidden;
     transition: all;
     
-    & .active{
+    &.active{
         opacity: 1;
         visibility: visible;
     }
